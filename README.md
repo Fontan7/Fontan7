@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Certifications
+![associate-data-engineer](assets/certificate.pdf)
+
 ![aws](assets/image-1.png)
 
 ![software-arch](assets/image-3.png)
